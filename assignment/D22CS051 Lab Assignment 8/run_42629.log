@@ -1,0 +1,361 @@
+
+The following have been reloaded with a version change:
+  1) python/3.7 => python/3.8
+
+WARNING: Ignoring invalid distribution - (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -rch (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -rch (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -etectron2 (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -ip (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -orch (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -orchaudio (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -orchvision (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution - (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -rch (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -rch (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -etectron2 (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -ip (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -orch (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -orchaudio (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -orchvision (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution - (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -rch (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -rch (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -etectron2 (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -ip (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -orch (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -orchaudio (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -orchvision (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution - (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -rch (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -rch (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -etectron2 (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -ip (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -orch (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -orchaudio (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -orchvision (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution - (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -rch (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -rch (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -etectron2 (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -ip (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -orch (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -orchaudio (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -orchvision (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution - (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -rch (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -rch (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -etectron2 (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -ip (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -orch (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -orchaudio (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -orchvision (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution - (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -rch (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -rch (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -etectron2 (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -ip (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -orch (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -orchaudio (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -orchvision (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution - (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -rch (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -rch (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -etectron2 (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -ip (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -orch (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -orchaudio (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+WARNING: Ignoring invalid distribution -orchvision (/scratch/apps/python/3.8/lib/python3.8/site-packages)
+Training Resnet-18 on odd classes Fashon-MNIST
+[INFO] current used device: cuda
+
+
+1st batch form train dataloader
+tensor([1, 7, 5, 1, 3, 1, 7, 3, 7, 3, 3, 3, 7, 3, 1, 7, 9, 1, 3, 5, 9, 1, 1, 3,
+        1, 3, 9, 5, 9, 7, 5, 5, 9, 1, 3, 9, 3, 3, 3, 1, 5, 7, 3, 5, 5, 7, 7, 1,
+        1, 7, 7, 5, 7, 1, 1, 9, 1, 5, 1, 5, 9, 3, 3, 3])
+wandb: Currently logged in as: d22cs051. Use `wandb login --relogin` to force relogin
+wandb: Appending key for api.wandb.ai to your netrc file: /iitjhome/d22cs051/.netrc
+[LOG]: Login Succesfull.
+wandb: Tracking run with wandb version 0.14.2
+wandb: Run data is saved locally in /iitjhome/d22cs051/dl/dlops-23/assignment/D22CS051 Lab Assignment 8/wandb/run-20230417_231733-rtgjnk44
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run serene-wave-27
+wandb: ⭐️ View project at https://wandb.ai/d22cs051/dlops-lab-ass-8-resnet-18-even-classes
+wandb: 🚀 View run at https://wandb.ai/d22cs051/dlops-lab-ass-8-resnet-18-even-classes/runs/rtgjnk44
+current exp / total: 1 / 6
+Training with: lr: 0.01, betas: (0.8, 0.888), eps: 1e-08, weight_decay: 0.001
+  0%|          | 0/30 [00:00<?, ?it/s]Epoch: 1 | train_loss: 0.7120 | train_acc: 0.7356 | test_loss: 0.2750 | test_acc: 0.9096
+  3%|▎         | 1/30 [00:14<06:58, 14.43s/it]Epoch: 2 | train_loss: 0.4298 | train_acc: 0.8271 | test_loss: 0.1642 | test_acc: 0.9474
+  7%|▋         | 2/30 [00:26<06:08, 13.16s/it]Epoch: 3 | train_loss: 0.3911 | train_acc: 0.8421 | test_loss: 0.1878 | test_acc: 0.9341
+ 10%|█         | 3/30 [00:39<05:48, 12.90s/it]Epoch: 4 | train_loss: 0.3697 | train_acc: 0.8538 | test_loss: 0.1765 | test_acc: 0.9428
+ 13%|█▎        | 4/30 [00:51<05:32, 12.78s/it]Epoch: 5 | train_loss: 0.3697 | train_acc: 0.8520 | test_loss: 0.1273 | test_acc: 0.9585
+ 17%|█▋        | 5/30 [01:04<05:16, 12.66s/it]Epoch: 6 | train_loss: 0.3709 | train_acc: 0.8520 | test_loss: 0.1152 | test_acc: 0.9604
+ 20%|██        | 6/30 [01:17<05:05, 12.75s/it]Epoch: 7 | train_loss: 0.3646 | train_acc: 0.8519 | test_loss: 0.3607 | test_acc: 0.8724
+ 23%|██▎       | 7/30 [01:29<04:52, 12.70s/it]Epoch: 8 | train_loss: 0.3643 | train_acc: 0.8564 | test_loss: 0.1871 | test_acc: 0.9316
+ 27%|██▋       | 8/30 [01:42<04:41, 12.78s/it]Epoch: 9 | train_loss: 0.3557 | train_acc: 0.8604 | test_loss: 0.1473 | test_acc: 0.9490
+ 30%|███       | 9/30 [01:55<04:27, 12.73s/it]Epoch: 10 | train_loss: 0.3576 | train_acc: 0.8559 | test_loss: 0.1311 | test_acc: 0.9549
+ 33%|███▎      | 10/30 [02:08<04:13, 12.70s/it]Epoch: 11 | train_loss: 0.3541 | train_acc: 0.8595 | test_loss: 0.1828 | test_acc: 0.9339
+ 37%|███▋      | 11/30 [02:20<04:01, 12.73s/it]Epoch: 12 | train_loss: 0.3557 | train_acc: 0.8580 | test_loss: 0.1351 | test_acc: 0.9539
+ 40%|████      | 12/30 [02:33<03:49, 12.74s/it]Epoch: 13 | train_loss: 0.3521 | train_acc: 0.8603 | test_loss: 0.1066 | test_acc: 0.9656
+ 43%|████▎     | 13/30 [02:46<03:36, 12.76s/it]Epoch: 14 | train_loss: 0.3584 | train_acc: 0.8559 | test_loss: 0.1316 | test_acc: 0.9547
+ 47%|████▋     | 14/30 [02:59<03:24, 12.78s/it]Epoch: 15 | train_loss: 0.3488 | train_acc: 0.8599 | test_loss: 0.1779 | test_acc: 0.9361
+ 50%|█████     | 15/30 [03:11<03:11, 12.74s/it]Epoch: 16 | train_loss: 0.3552 | train_acc: 0.8593 | test_loss: 0.1665 | test_acc: 0.9432
+ 53%|█████▎    | 16/30 [03:24<02:57, 12.65s/it]Epoch: 17 | train_loss: 0.3548 | train_acc: 0.8591 | test_loss: 0.1297 | test_acc: 0.9569
+ 57%|█████▋    | 17/30 [03:37<02:45, 12.73s/it]Epoch: 18 | train_loss: 0.3434 | train_acc: 0.8635 | test_loss: 0.1600 | test_acc: 0.9488
+ 60%|██████    | 18/30 [03:50<02:33, 12.75s/it]Epoch: 19 | train_loss: 0.3504 | train_acc: 0.8591 | test_loss: 0.1694 | test_acc: 0.9458
+ 63%|██████▎   | 19/30 [04:02<02:19, 12.68s/it]Epoch: 20 | train_loss: 0.3422 | train_acc: 0.8644 | test_loss: 0.2442 | test_acc: 0.9227
+ 67%|██████▋   | 20/30 [04:15<02:07, 12.74s/it]Epoch: 21 | train_loss: 0.3457 | train_acc: 0.8603 | test_loss: 0.1412 | test_acc: 0.9545
+ 70%|███████   | 21/30 [04:28<01:56, 12.90s/it]Epoch: 22 | train_loss: 0.3493 | train_acc: 0.8614 | test_loss: 0.1665 | test_acc: 0.9438
+ 73%|███████▎  | 22/30 [04:41<01:42, 12.83s/it]Epoch: 23 | train_loss: 0.3436 | train_acc: 0.8643 | test_loss: 0.1213 | test_acc: 0.9636
+ 77%|███████▋  | 23/30 [04:54<01:29, 12.83s/it]Epoch: 24 | train_loss: 0.3452 | train_acc: 0.8625 | test_loss: 0.2165 | test_acc: 0.9308
+ 80%|████████  | 24/30 [05:07<01:17, 12.88s/it]Epoch: 25 | train_loss: 0.3465 | train_acc: 0.8627 | test_loss: 0.1281 | test_acc: 0.9583
+ 83%|████████▎ | 25/30 [05:20<01:04, 12.88s/it]Epoch: 26 | train_loss: 0.3487 | train_acc: 0.8623 | test_loss: 0.1314 | test_acc: 0.9589
+ 87%|████████▋ | 26/30 [05:32<00:51, 12.83s/it]Epoch: 27 | train_loss: 0.3458 | train_acc: 0.8612 | test_loss: 0.1352 | test_acc: 0.9569
+ 90%|█████████ | 27/30 [05:45<00:38, 12.87s/it]Epoch: 28 | train_loss: 0.3461 | train_acc: 0.8625 | test_loss: 0.1319 | test_acc: 0.9598
+ 93%|█████████▎| 28/30 [05:58<00:25, 12.90s/it]Epoch: 29 | train_loss: 0.3456 | train_acc: 0.8636 | test_loss: 0.1196 | test_acc: 0.9620
+ 97%|█████████▋| 29/30 [06:11<00:12, 12.93s/it]Epoch: 30 | train_loss: 0.3444 | train_acc: 0.8626 | test_loss: 0.3145 | test_acc: 0.8896
+100%|██████████| 30/30 [06:24<00:00, 12.87s/it]100%|██████████| 30/30 [06:24<00:00, 12.82s/it]
+wandb: Waiting for W&B process to finish... (success).
+wandb: 🚀 View run serene-wave-27 at: https://wandb.ai/d22cs051/dlops-lab-ass-8-resnet-18-even-classes/runs/rtgjnk44
+wandb: Synced 5 W&B file(s), 30 media file(s), 1950 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20230417_231733-rtgjnk44/logs
+total training time: 398.554 sec.
+LOSS & Accuracy Curves
+lr: 0.01, betas: (0.8, 0.888), eps: 1e-08, weight_decay: 0.001
+
+wandb: - Waiting for wandb.init()...wandb: \ Waiting for wandb.init()...wandb: Tracking run with wandb version 0.14.2
+wandb: Run data is saved locally in /iitjhome/d22cs051/dl/dlops-23/assignment/D22CS051 Lab Assignment 8/wandb/run-20230417_232413-9m3szjnu
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run zany-fog-28
+wandb: ⭐️ View project at https://wandb.ai/d22cs051/dlops-lab-ass-8-resnet-18-even-classes
+wandb: 🚀 View run at https://wandb.ai/d22cs051/dlops-lab-ass-8-resnet-18-even-classes/runs/9m3szjnu
+current exp / total: 2 / 6
+Training with: lr: 0.01, betas: (0.8, 0.888), eps: 1e-08, weight_decay: 0.0001
+  0%|          | 0/30 [00:00<?, ?it/s]Epoch: 1 | train_loss: 0.6173 | train_acc: 0.7593 | test_loss: 0.2341 | test_acc: 0.9175
+  3%|▎         | 1/30 [00:12<06:14, 12.91s/it]Epoch: 2 | train_loss: 0.3877 | train_acc: 0.8435 | test_loss: 0.1384 | test_acc: 0.9579
+  7%|▋         | 2/30 [00:25<06:03, 12.98s/it]Epoch: 3 | train_loss: 0.3447 | train_acc: 0.8628 | test_loss: 0.1075 | test_acc: 0.9640
+ 10%|█         | 3/30 [00:38<05:50, 13.00s/it]Epoch: 4 | train_loss: 0.3133 | train_acc: 0.8757 | test_loss: 0.1086 | test_acc: 0.9620
+ 13%|█▎        | 4/30 [00:55<06:11, 14.31s/it]Epoch: 5 | train_loss: 0.3099 | train_acc: 0.8743 | test_loss: 0.1003 | test_acc: 0.9674
+ 17%|█▋        | 5/30 [01:07<05:42, 13.69s/it]Epoch: 6 | train_loss: 0.3052 | train_acc: 0.8776 | test_loss: 0.1131 | test_acc: 0.9608
+ 20%|██        | 6/30 [01:24<05:48, 14.53s/it]Epoch: 7 | train_loss: 0.2974 | train_acc: 0.8815 | test_loss: 0.1066 | test_acc: 0.9638
+ 23%|██▎       | 7/30 [01:36<05:17, 13.82s/it]Epoch: 8 | train_loss: 0.2891 | train_acc: 0.8834 | test_loss: 0.1217 | test_acc: 0.9650
+ 27%|██▋       | 8/30 [01:49<04:55, 13.45s/it]Epoch: 9 | train_loss: 0.2837 | train_acc: 0.8857 | test_loss: 0.0924 | test_acc: 0.9672
+ 30%|███       | 9/30 [02:01<04:37, 13.19s/it]Epoch: 10 | train_loss: 0.2835 | train_acc: 0.8845 | test_loss: 0.1321 | test_acc: 0.9517
+ 33%|███▎      | 10/30 [02:14<04:18, 12.95s/it]Epoch: 11 | train_loss: 0.2897 | train_acc: 0.8805 | test_loss: 0.1203 | test_acc: 0.9583
+ 37%|███▋      | 11/30 [02:26<04:02, 12.78s/it]Epoch: 12 | train_loss: 0.2854 | train_acc: 0.8840 | test_loss: 0.0923 | test_acc: 0.9697
+ 40%|████      | 12/30 [02:39<03:48, 12.72s/it]Epoch: 13 | train_loss: 0.2835 | train_acc: 0.8851 | test_loss: 0.0985 | test_acc: 0.9682
+ 43%|████▎     | 13/30 [02:51<03:34, 12.64s/it]Epoch: 14 | train_loss: 0.2761 | train_acc: 0.8894 | test_loss: 0.1243 | test_acc: 0.9595
+ 47%|████▋     | 14/30 [03:04<03:22, 12.66s/it]Epoch: 15 | train_loss: 0.2802 | train_acc: 0.8876 | test_loss: 0.0998 | test_acc: 0.9654
+ 50%|█████     | 15/30 [03:16<03:09, 12.61s/it]Epoch: 16 | train_loss: 0.2845 | train_acc: 0.8838 | test_loss: 0.1284 | test_acc: 0.9533
+ 53%|█████▎    | 16/30 [03:29<02:57, 12.65s/it]Epoch: 17 | train_loss: 0.2812 | train_acc: 0.8843 | test_loss: 0.0975 | test_acc: 0.9705
+ 57%|█████▋    | 17/30 [03:42<02:44, 12.65s/it]Epoch: 18 | train_loss: 0.2781 | train_acc: 0.8871 | test_loss: 0.0830 | test_acc: 0.9705
+ 60%|██████    | 18/30 [03:54<02:31, 12.63s/it]Epoch: 19 | train_loss: 0.2719 | train_acc: 0.8885 | test_loss: 0.0949 | test_acc: 0.9680
+ 63%|██████▎   | 19/30 [04:06<02:17, 12.51s/it]Epoch: 20 | train_loss: 0.2762 | train_acc: 0.8895 | test_loss: 0.0867 | test_acc: 0.9715
+ 67%|██████▋   | 20/30 [04:19<02:05, 12.51s/it]Epoch: 21 | train_loss: 0.2752 | train_acc: 0.8872 | test_loss: 0.0871 | test_acc: 0.9705
+ 70%|███████   | 21/30 [04:32<01:53, 12.62s/it]Epoch: 22 | train_loss: 0.2737 | train_acc: 0.8900 | test_loss: 0.0985 | test_acc: 0.9660
+ 73%|███████▎  | 22/30 [04:45<01:42, 12.77s/it]Epoch: 23 | train_loss: 0.2745 | train_acc: 0.8887 | test_loss: 0.1054 | test_acc: 0.9652
+ 77%|███████▋  | 23/30 [04:58<01:30, 12.86s/it]Epoch: 24 | train_loss: 0.2706 | train_acc: 0.8892 | test_loss: 0.1091 | test_acc: 0.9561
+ 80%|████████  | 24/30 [05:11<01:17, 12.93s/it]Epoch: 25 | train_loss: 0.2681 | train_acc: 0.8899 | test_loss: 0.0881 | test_acc: 0.9725
+ 83%|████████▎ | 25/30 [05:24<01:04, 12.98s/it]Epoch: 26 | train_loss: 0.2703 | train_acc: 0.8890 | test_loss: 0.0853 | test_acc: 0.9699
+ 87%|████████▋ | 26/30 [05:37<00:51, 12.87s/it]Epoch: 27 | train_loss: 0.2677 | train_acc: 0.8894 | test_loss: 0.1209 | test_acc: 0.9581
+ 90%|█████████ | 27/30 [05:54<00:42, 14.06s/it]Epoch: 28 | train_loss: 0.2705 | train_acc: 0.8895 | test_loss: 0.0847 | test_acc: 0.9684
+ 93%|█████████▎| 28/30 [06:07<00:27, 13.76s/it]Epoch: 29 | train_loss: 0.2698 | train_acc: 0.8890 | test_loss: 0.0909 | test_acc: 0.9721
+ 97%|█████████▋| 29/30 [06:19<00:13, 13.47s/it]Epoch: 30 | train_loss: 0.2666 | train_acc: 0.8891 | test_loss: 0.0859 | test_acc: 0.9727
+100%|██████████| 30/30 [06:32<00:00, 13.21s/it]100%|██████████| 30/30 [06:32<00:00, 13.09s/it]
+wandb: Waiting for W&B process to finish... (success).
+wandb: 🚀 View run zany-fog-28 at: https://wandb.ai/d22cs051/dlops-lab-ass-8-resnet-18-even-classes/runs/9m3szjnu
+wandb: Synced 5 W&B file(s), 30 media file(s), 1950 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20230417_232413-9m3szjnu/logs
+total training time: 407.297 sec.
+LOSS & Accuracy Curves
+lr: 0.01, betas: (0.8, 0.888), eps: 1e-08, weight_decay: 0.0001
+
+wandb: - Waiting for wandb.init()...wandb: \ Waiting for wandb.init()...wandb: | Waiting for wandb.init()...wandb: / Waiting for wandb.init()...wandb: - Waiting for wandb.init()...wandb: \ Waiting for wandb.init()...wandb: | Waiting for wandb.init()...wandb: Tracking run with wandb version 0.14.2
+wandb: Run data is saved locally in /iitjhome/d22cs051/dl/dlops-23/assignment/D22CS051 Lab Assignment 8/wandb/run-20230417_233102-pbhfcoq4
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run distinctive-frost-29
+wandb: ⭐️ View project at https://wandb.ai/d22cs051/dlops-lab-ass-8-resnet-18-even-classes
+wandb: 🚀 View run at https://wandb.ai/d22cs051/dlops-lab-ass-8-resnet-18-even-classes/runs/pbhfcoq4
+current exp / total: 3 / 6
+Training with: lr: 0.001, betas: (0.8, 0.888), eps: 1e-08, weight_decay: 0.001
+  0%|          | 0/30 [00:00<?, ?it/s]Epoch: 1 | train_loss: 0.4853 | train_acc: 0.8073 | test_loss: 0.1737 | test_acc: 0.9476
+  3%|▎         | 1/30 [00:12<06:09, 12.75s/it]Epoch: 2 | train_loss: 0.3488 | train_acc: 0.8588 | test_loss: 0.1279 | test_acc: 0.9571
+  7%|▋         | 2/30 [00:25<05:53, 12.64s/it]Epoch: 3 | train_loss: 0.3189 | train_acc: 0.8722 | test_loss: 0.0929 | test_acc: 0.9672
+ 10%|█         | 3/30 [00:37<05:40, 12.61s/it]Epoch: 4 | train_loss: 0.2956 | train_acc: 0.8800 | test_loss: 0.0920 | test_acc: 0.9699
+ 13%|█▎        | 4/30 [00:50<05:25, 12.50s/it]Epoch: 5 | train_loss: 0.2825 | train_acc: 0.8850 | test_loss: 0.0912 | test_acc: 0.9701
+ 17%|█▋        | 5/30 [01:03<05:15, 12.60s/it]Epoch: 6 | train_loss: 0.2717 | train_acc: 0.8896 | test_loss: 0.1013 | test_acc: 0.9672
+ 20%|██        | 6/30 [01:15<05:04, 12.67s/it]Epoch: 7 | train_loss: 0.2636 | train_acc: 0.8926 | test_loss: 0.0944 | test_acc: 0.9644
+ 23%|██▎       | 7/30 [01:28<04:48, 12.54s/it]Epoch: 8 | train_loss: 0.2586 | train_acc: 0.8952 | test_loss: 0.0896 | test_acc: 0.9660
+ 27%|██▋       | 8/30 [01:40<04:36, 12.58s/it]Epoch: 9 | train_loss: 0.2533 | train_acc: 0.8971 | test_loss: 0.0993 | test_acc: 0.9656
+ 30%|███       | 9/30 [01:53<04:22, 12.51s/it]Epoch: 10 | train_loss: 0.2504 | train_acc: 0.8965 | test_loss: 0.0754 | test_acc: 0.9759
+ 33%|███▎      | 10/30 [02:05<04:08, 12.44s/it]Epoch: 11 | train_loss: 0.2412 | train_acc: 0.8988 | test_loss: 0.0746 | test_acc: 0.9721
+ 37%|███▋      | 11/30 [02:17<03:54, 12.35s/it]Epoch: 12 | train_loss: 0.2375 | train_acc: 0.9021 | test_loss: 0.0928 | test_acc: 0.9693
+ 40%|████      | 12/30 [02:30<03:44, 12.45s/it]Epoch: 13 | train_loss: 0.2454 | train_acc: 0.8992 | test_loss: 0.0928 | test_acc: 0.9678
+ 43%|████▎     | 13/30 [02:42<03:31, 12.46s/it]Epoch: 14 | train_loss: 0.2403 | train_acc: 0.8997 | test_loss: 0.0840 | test_acc: 0.9709
+ 47%|████▋     | 14/30 [02:55<03:19, 12.48s/it]Epoch: 15 | train_loss: 0.2354 | train_acc: 0.9026 | test_loss: 0.0896 | test_acc: 0.9670
+ 50%|█████     | 15/30 [03:07<03:07, 12.52s/it]Epoch: 16 | train_loss: 0.2304 | train_acc: 0.9044 | test_loss: 0.0792 | test_acc: 0.9731
+ 53%|█████▎    | 16/30 [03:20<02:55, 12.54s/it]Epoch: 17 | train_loss: 0.2334 | train_acc: 0.9057 | test_loss: 0.0795 | test_acc: 0.9733
+ 57%|█████▋    | 17/30 [03:33<02:43, 12.56s/it]Epoch: 18 | train_loss: 0.2330 | train_acc: 0.9032 | test_loss: 0.1134 | test_acc: 0.9585
+ 60%|██████    | 18/30 [03:45<02:30, 12.58s/it]Epoch: 19 | train_loss: 0.2293 | train_acc: 0.9053 | test_loss: 0.0699 | test_acc: 0.9767
+ 63%|██████▎   | 19/30 [03:57<02:17, 12.46s/it]Epoch: 20 | train_loss: 0.2289 | train_acc: 0.9054 | test_loss: 0.0919 | test_acc: 0.9662
+ 67%|██████▋   | 20/30 [04:10<02:04, 12.40s/it]Epoch: 21 | train_loss: 0.2249 | train_acc: 0.9063 | test_loss: 0.0835 | test_acc: 0.9729
+ 70%|███████   | 21/30 [04:22<01:51, 12.38s/it]Epoch: 22 | train_loss: 0.2245 | train_acc: 0.9053 | test_loss: 0.0718 | test_acc: 0.9759
+ 73%|███████▎  | 22/30 [04:34<01:39, 12.42s/it]Epoch: 23 | train_loss: 0.2256 | train_acc: 0.9036 | test_loss: 0.0744 | test_acc: 0.9737
+ 77%|███████▋  | 23/30 [04:47<01:26, 12.40s/it]Epoch: 24 | train_loss: 0.2208 | train_acc: 0.9082 | test_loss: 0.0673 | test_acc: 0.9771
+ 80%|████████  | 24/30 [04:59<01:14, 12.43s/it]Epoch: 25 | train_loss: 0.2221 | train_acc: 0.9082 | test_loss: 0.0997 | test_acc: 0.9668
+ 83%|████████▎ | 25/30 [05:12<01:01, 12.39s/it]Epoch: 26 | train_loss: 0.2264 | train_acc: 0.9059 | test_loss: 0.0706 | test_acc: 0.9753
+ 87%|████████▋ | 26/30 [05:24<00:49, 12.36s/it]Epoch: 27 | train_loss: 0.2204 | train_acc: 0.9082 | test_loss: 0.0753 | test_acc: 0.9747
+ 90%|█████████ | 27/30 [05:36<00:37, 12.42s/it]Epoch: 28 | train_loss: 0.2213 | train_acc: 0.9069 | test_loss: 0.0726 | test_acc: 0.9759
+ 93%|█████████▎| 28/30 [05:49<00:24, 12.48s/it]Epoch: 29 | train_loss: 0.2164 | train_acc: 0.9104 | test_loss: 0.0777 | test_acc: 0.9751
+ 97%|█████████▋| 29/30 [06:01<00:12, 12.44s/it]Epoch: 30 | train_loss: 0.2222 | train_acc: 0.9070 | test_loss: 0.0640 | test_acc: 0.9757
+100%|██████████| 30/30 [06:14<00:00, 12.40s/it]100%|██████████| 30/30 [06:14<00:00, 12.47s/it]
+wandb: Waiting for W&B process to finish... (success).
+wandb: 🚀 View run distinctive-frost-29 at: https://wandb.ai/d22cs051/dlops-lab-ass-8-resnet-18-even-classes/runs/pbhfcoq4
+wandb: Synced 5 W&B file(s), 30 media file(s), 1950 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20230417_233102-pbhfcoq4/logs
+total training time: 387.339 sec.
+LOSS & Accuracy Curves
+lr: 0.001, betas: (0.8, 0.888), eps: 1e-08, weight_decay: 0.001
+
+wandb: - Waiting for wandb.init()...wandb: \ Waiting for wandb.init()...wandb: Tracking run with wandb version 0.14.2
+wandb: Run data is saved locally in /iitjhome/d22cs051/dl/dlops-23/assignment/D22CS051 Lab Assignment 8/wandb/run-20230417_233737-990m1c4k
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run effortless-yogurt-30
+wandb: ⭐️ View project at https://wandb.ai/d22cs051/dlops-lab-ass-8-resnet-18-even-classes
+wandb: 🚀 View run at https://wandb.ai/d22cs051/dlops-lab-ass-8-resnet-18-even-classes/runs/990m1c4k
+current exp / total: 4 / 6
+Training with: lr: 0.001, betas: (0.8, 0.888), eps: 1e-08, weight_decay: 0.0001
+  0%|          | 0/30 [00:00<?, ?it/s]Epoch: 1 | train_loss: 0.4741 | train_acc: 0.8137 | test_loss: 0.1279 | test_acc: 0.9626
+  3%|▎         | 1/30 [00:12<06:06, 12.63s/it]Epoch: 2 | train_loss: 0.3207 | train_acc: 0.8715 | test_loss: 0.1089 | test_acc: 0.9628
+  7%|▋         | 2/30 [00:25<05:51, 12.57s/it]Epoch: 3 | train_loss: 0.2899 | train_acc: 0.8826 | test_loss: 0.0849 | test_acc: 0.9711
+ 10%|█         | 3/30 [00:37<05:39, 12.57s/it]Epoch: 4 | train_loss: 0.2636 | train_acc: 0.8920 | test_loss: 0.0920 | test_acc: 0.9662
+ 13%|█▎        | 4/30 [00:50<05:28, 12.62s/it]Epoch: 5 | train_loss: 0.2536 | train_acc: 0.8949 | test_loss: 0.1100 | test_acc: 0.9654
+ 17%|█▋        | 5/30 [01:03<05:17, 12.70s/it]Epoch: 6 | train_loss: 0.2517 | train_acc: 0.8957 | test_loss: 0.0681 | test_acc: 0.9743
+ 20%|██        | 6/30 [01:15<05:03, 12.64s/it]Epoch: 7 | train_loss: 0.2395 | train_acc: 0.9007 | test_loss: 0.0947 | test_acc: 0.9648
+ 23%|██▎       | 7/30 [01:29<04:55, 12.85s/it]Epoch: 8 | train_loss: 0.2275 | train_acc: 0.9041 | test_loss: 0.0750 | test_acc: 0.9775
+ 27%|██▋       | 8/30 [01:41<04:41, 12.81s/it]Epoch: 9 | train_loss: 0.2248 | train_acc: 0.9062 | test_loss: 0.0702 | test_acc: 0.9737
+ 30%|███       | 9/30 [01:54<04:28, 12.78s/it]Epoch: 10 | train_loss: 0.2285 | train_acc: 0.9042 | test_loss: 0.0687 | test_acc: 0.9777
+ 33%|███▎      | 10/30 [02:07<04:15, 12.76s/it]Epoch: 11 | train_loss: 0.2212 | train_acc: 0.9072 | test_loss: 0.0709 | test_acc: 0.9727
+ 37%|███▋      | 11/30 [02:19<04:01, 12.70s/it]Epoch: 12 | train_loss: 0.2178 | train_acc: 0.9077 | test_loss: 0.0931 | test_acc: 0.9705
+ 40%|████      | 12/30 [02:32<03:49, 12.73s/it]Epoch: 13 | train_loss: 0.2184 | train_acc: 0.9070 | test_loss: 0.0584 | test_acc: 0.9798
+ 43%|████▎     | 13/30 [02:49<03:58, 14.03s/it]Epoch: 14 | train_loss: 0.2168 | train_acc: 0.9091 | test_loss: 0.0705 | test_acc: 0.9784
+ 47%|████▋     | 14/30 [03:01<03:35, 13.48s/it]Epoch: 15 | train_loss: 0.2093 | train_acc: 0.9124 | test_loss: 0.0626 | test_acc: 0.9796
+ 50%|█████     | 15/30 [03:14<03:17, 13.18s/it]Epoch: 16 | train_loss: 0.2057 | train_acc: 0.9120 | test_loss: 0.0675 | test_acc: 0.9814
+ 53%|█████▎    | 16/30 [03:27<03:02, 13.06s/it]Epoch: 17 | train_loss: 0.2068 | train_acc: 0.9129 | test_loss: 0.0721 | test_acc: 0.9747
+ 57%|█████▋    | 17/30 [03:39<02:47, 12.88s/it]Epoch: 18 | train_loss: 0.2060 | train_acc: 0.9121 | test_loss: 0.0660 | test_acc: 0.9804
+ 60%|██████    | 18/30 [03:51<02:32, 12.70s/it]Epoch: 19 | train_loss: 0.2066 | train_acc: 0.9125 | test_loss: 0.0590 | test_acc: 0.9782
+ 63%|██████▎   | 19/30 [04:04<02:19, 12.65s/it]Epoch: 20 | train_loss: 0.1989 | train_acc: 0.9158 | test_loss: 0.0595 | test_acc: 0.9804
+ 67%|██████▋   | 20/30 [04:16<02:06, 12.61s/it]Epoch: 21 | train_loss: 0.1983 | train_acc: 0.9148 | test_loss: 0.0600 | test_acc: 0.9812
+ 70%|███████   | 21/30 [04:29<01:53, 12.56s/it]Epoch: 22 | train_loss: 0.2048 | train_acc: 0.9114 | test_loss: 0.0791 | test_acc: 0.9749
+ 73%|███████▎  | 22/30 [04:41<01:40, 12.52s/it]Epoch: 23 | train_loss: 0.1989 | train_acc: 0.9149 | test_loss: 0.0625 | test_acc: 0.9775
+ 77%|███████▋  | 23/30 [04:59<01:39, 14.15s/it]Epoch: 24 | train_loss: 0.1972 | train_acc: 0.9171 | test_loss: 0.0672 | test_acc: 0.9775
+ 80%|████████  | 24/30 [05:12<01:22, 13.81s/it]Epoch: 25 | train_loss: 0.1966 | train_acc: 0.9156 | test_loss: 0.0688 | test_acc: 0.9773
+ 83%|████████▎ | 25/30 [05:25<01:07, 13.41s/it]Epoch: 26 | train_loss: 0.1906 | train_acc: 0.9197 | test_loss: 0.0567 | test_acc: 0.9816
+ 87%|████████▋ | 26/30 [05:37<00:52, 13.17s/it]Epoch: 27 | train_loss: 0.1925 | train_acc: 0.9161 | test_loss: 0.0579 | test_acc: 0.9802
+ 90%|█████████ | 27/30 [05:50<00:38, 12.95s/it]Epoch: 28 | train_loss: 0.1957 | train_acc: 0.9160 | test_loss: 0.0555 | test_acc: 0.9800
+ 93%|█████████▎| 28/30 [06:02<00:25, 12.84s/it]Epoch: 29 | train_loss: 0.1931 | train_acc: 0.9165 | test_loss: 0.0577 | test_acc: 0.9804
+ 97%|█████████▋| 29/30 [06:15<00:12, 12.78s/it]Epoch: 30 | train_loss: 0.1950 | train_acc: 0.9168 | test_loss: 0.0545 | test_acc: 0.9828
+100%|██████████| 30/30 [06:28<00:00, 12.72s/it]100%|██████████| 30/30 [06:28<00:00, 12.93s/it]
+wandb: Waiting for W&B process to finish... (success).
+wandb: 🚀 View run effortless-yogurt-30 at: https://wandb.ai/d22cs051/dlops-lab-ass-8-resnet-18-even-classes/runs/990m1c4k
+wandb: Synced 5 W&B file(s), 30 media file(s), 1950 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20230417_233737-990m1c4k/logs
+total training time: 401.245 sec.
+LOSS & Accuracy Curves
+lr: 0.001, betas: (0.8, 0.888), eps: 1e-08, weight_decay: 0.0001
+
+wandb: - Waiting for wandb.init()...wandb: \ Waiting for wandb.init()...wandb: Tracking run with wandb version 0.14.2
+wandb: Run data is saved locally in /iitjhome/d22cs051/dl/dlops-23/assignment/D22CS051 Lab Assignment 8/wandb/run-20230417_234420-956ye82a
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run devout-flower-31
+wandb: ⭐️ View project at https://wandb.ai/d22cs051/dlops-lab-ass-8-resnet-18-even-classes
+wandb: 🚀 View run at https://wandb.ai/d22cs051/dlops-lab-ass-8-resnet-18-even-classes/runs/956ye82a
+current exp / total: 5 / 6
+Training with: lr: 0.0001, betas: (0.8, 0.888), eps: 1e-08, weight_decay: 0.001
+  0%|          | 0/30 [00:00<?, ?it/s]Epoch: 1 | train_loss: 0.4679 | train_acc: 0.8222 | test_loss: 0.1325 | test_acc: 0.9583
+  3%|▎         | 1/30 [00:17<08:36, 17.80s/it]Epoch: 2 | train_loss: 0.3182 | train_acc: 0.8710 | test_loss: 0.1072 | test_acc: 0.9616
+  7%|▋         | 2/30 [00:30<06:54, 14.81s/it]Epoch: 3 | train_loss: 0.2787 | train_acc: 0.8874 | test_loss: 0.0957 | test_acc: 0.9662
+ 10%|█         | 3/30 [00:43<06:11, 13.77s/it]Epoch: 4 | train_loss: 0.2614 | train_acc: 0.8922 | test_loss: 0.0789 | test_acc: 0.9725
+ 13%|█▎        | 4/30 [00:55<05:44, 13.26s/it]Epoch: 5 | train_loss: 0.2470 | train_acc: 0.8982 | test_loss: 0.0771 | test_acc: 0.9749
+ 17%|█▋        | 5/30 [01:08<05:24, 13.00s/it]Epoch: 6 | train_loss: 0.2392 | train_acc: 0.8981 | test_loss: 0.0922 | test_acc: 0.9699
+ 20%|██        | 6/30 [01:20<05:06, 12.79s/it]Epoch: 7 | train_loss: 0.2286 | train_acc: 0.9057 | test_loss: 0.0725 | test_acc: 0.9743
+ 23%|██▎       | 7/30 [01:33<04:53, 12.74s/it]Epoch: 8 | train_loss: 0.2271 | train_acc: 0.9040 | test_loss: 0.0743 | test_acc: 0.9753
+ 27%|██▋       | 8/30 [01:45<04:36, 12.58s/it]Epoch: 9 | train_loss: 0.2181 | train_acc: 0.9086 | test_loss: 0.0669 | test_acc: 0.9759
+ 30%|███       | 9/30 [01:57<04:23, 12.54s/it]Epoch: 10 | train_loss: 0.2137 | train_acc: 0.9101 | test_loss: 0.0729 | test_acc: 0.9771
+ 33%|███▎      | 10/30 [02:10<04:11, 12.56s/it]Epoch: 11 | train_loss: 0.2140 | train_acc: 0.9100 | test_loss: 0.0835 | test_acc: 0.9699
+ 37%|███▋      | 11/30 [02:23<04:00, 12.64s/it]Epoch: 12 | train_loss: 0.2083 | train_acc: 0.9114 | test_loss: 0.0696 | test_acc: 0.9773
+ 40%|████      | 12/30 [02:35<03:47, 12.63s/it]Epoch: 13 | train_loss: 0.2060 | train_acc: 0.9136 | test_loss: 0.0734 | test_acc: 0.9763
+ 43%|████▎     | 13/30 [02:48<03:34, 12.60s/it]Epoch: 14 | train_loss: 0.2090 | train_acc: 0.9096 | test_loss: 0.0692 | test_acc: 0.9788
+ 47%|████▋     | 14/30 [03:01<03:21, 12.62s/it]Epoch: 15 | train_loss: 0.2035 | train_acc: 0.9126 | test_loss: 0.0666 | test_acc: 0.9802
+ 50%|█████     | 15/30 [03:13<03:09, 12.61s/it]Epoch: 16 | train_loss: 0.2012 | train_acc: 0.9149 | test_loss: 0.0599 | test_acc: 0.9806
+ 53%|█████▎    | 16/30 [03:26<02:57, 12.65s/it]Epoch: 17 | train_loss: 0.2026 | train_acc: 0.9147 | test_loss: 0.0762 | test_acc: 0.9733
+ 57%|█████▋    | 17/30 [03:38<02:43, 12.61s/it]Epoch: 18 | train_loss: 0.1947 | train_acc: 0.9181 | test_loss: 0.0690 | test_acc: 0.9777
+ 60%|██████    | 18/30 [03:51<02:31, 12.62s/it]Epoch: 19 | train_loss: 0.1945 | train_acc: 0.9170 | test_loss: 0.0846 | test_acc: 0.9769
+ 63%|██████▎   | 19/30 [04:03<02:17, 12.53s/it]Epoch: 20 | train_loss: 0.1939 | train_acc: 0.9175 | test_loss: 0.0840 | test_acc: 0.9745
+ 67%|██████▋   | 20/30 [04:16<02:04, 12.50s/it]Epoch: 21 | train_loss: 0.1973 | train_acc: 0.9170 | test_loss: 0.0712 | test_acc: 0.9765
+ 70%|███████   | 21/30 [04:28<01:52, 12.54s/it]Epoch: 22 | train_loss: 0.1947 | train_acc: 0.9177 | test_loss: 0.0711 | test_acc: 0.9773
+ 73%|███████▎  | 22/30 [04:41<01:40, 12.55s/it]Epoch: 23 | train_loss: 0.1878 | train_acc: 0.9186 | test_loss: 0.0659 | test_acc: 0.9782
+ 77%|███████▋  | 23/30 [04:54<01:28, 12.60s/it]Epoch: 24 | train_loss: 0.1871 | train_acc: 0.9196 | test_loss: 0.0608 | test_acc: 0.9800
+ 80%|████████  | 24/30 [05:06<01:15, 12.61s/it]Epoch: 25 | train_loss: 0.1844 | train_acc: 0.9213 | test_loss: 0.0634 | test_acc: 0.9796
+ 83%|████████▎ | 25/30 [05:19<01:02, 12.53s/it]Epoch: 26 | train_loss: 0.1853 | train_acc: 0.9212 | test_loss: 0.0662 | test_acc: 0.9800
+ 87%|████████▋ | 26/30 [05:31<00:50, 12.58s/it]Epoch: 27 | train_loss: 0.1862 | train_acc: 0.9205 | test_loss: 0.0649 | test_acc: 0.9802
+ 90%|█████████ | 27/30 [05:49<00:42, 14.06s/it]Epoch: 28 | train_loss: 0.1870 | train_acc: 0.9195 | test_loss: 0.0723 | test_acc: 0.9808
+ 93%|█████████▎| 28/30 [06:02<00:27, 13.70s/it]Epoch: 29 | train_loss: 0.1833 | train_acc: 0.9215 | test_loss: 0.0638 | test_acc: 0.9804
+ 97%|█████████▋| 29/30 [06:14<00:13, 13.38s/it]Epoch: 30 | train_loss: 0.1891 | train_acc: 0.9189 | test_loss: 0.0649 | test_acc: 0.9798
+100%|██████████| 30/30 [06:27<00:00, 13.09s/it]100%|██████████| 30/30 [06:27<00:00, 12.91s/it]
+wandb: Waiting for W&B process to finish... (success).
+wandb: 🚀 View run devout-flower-31 at: https://wandb.ai/d22cs051/dlops-lab-ass-8-resnet-18-even-classes/runs/956ye82a
+wandb: Synced 5 W&B file(s), 30 media file(s), 1950 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20230417_234420-956ye82a/logs
+total training time: 401.350 sec.
+LOSS & Accuracy Curves
+lr: 0.0001, betas: (0.8, 0.888), eps: 1e-08, weight_decay: 0.001
+
+wandb: - Waiting for wandb.init()...wandb: \ Waiting for wandb.init()...wandb: Tracking run with wandb version 0.14.2
+wandb: Run data is saved locally in /iitjhome/d22cs051/dl/dlops-23/assignment/D22CS051 Lab Assignment 8/wandb/run-20230417_235104-hd5q9z10
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run crimson-feather-32
+wandb: ⭐️ View project at https://wandb.ai/d22cs051/dlops-lab-ass-8-resnet-18-even-classes
+wandb: 🚀 View run at https://wandb.ai/d22cs051/dlops-lab-ass-8-resnet-18-even-classes/runs/hd5q9z10
+current exp / total: 6 / 6
+Training with: lr: 0.0001, betas: (0.8, 0.888), eps: 1e-08, weight_decay: 0.0001
+  0%|          | 0/30 [00:00<?, ?it/s]Epoch: 1 | train_loss: 0.4655 | train_acc: 0.8213 | test_loss: 0.1379 | test_acc: 0.9557
+  3%|▎         | 1/30 [00:12<06:08, 12.72s/it]Epoch: 2 | train_loss: 0.3085 | train_acc: 0.8744 | test_loss: 0.1095 | test_acc: 0.9598
+  7%|▋         | 2/30 [00:25<05:58, 12.80s/it]Epoch: 3 | train_loss: 0.2783 | train_acc: 0.8863 | test_loss: 0.0897 | test_acc: 0.9693
+ 10%|█         | 3/30 [00:38<05:42, 12.69s/it]Epoch: 4 | train_loss: 0.2521 | train_acc: 0.8957 | test_loss: 0.0900 | test_acc: 0.9703
+ 13%|█▎        | 4/30 [00:50<05:30, 12.70s/it]Epoch: 5 | train_loss: 0.2437 | train_acc: 0.8987 | test_loss: 0.0759 | test_acc: 0.9735
+ 17%|█▋        | 5/30 [01:03<05:18, 12.73s/it]Epoch: 6 | train_loss: 0.2335 | train_acc: 0.9037 | test_loss: 0.0968 | test_acc: 0.9664
+ 20%|██        | 6/30 [01:16<05:04, 12.69s/it]Epoch: 7 | train_loss: 0.2249 | train_acc: 0.9050 | test_loss: 0.0782 | test_acc: 0.9721
+ 23%|██▎       | 7/30 [01:28<04:51, 12.66s/it]Epoch: 8 | train_loss: 0.2231 | train_acc: 0.9055 | test_loss: 0.0755 | test_acc: 0.9735
+ 27%|██▋       | 8/30 [01:41<04:36, 12.57s/it]Epoch: 9 | train_loss: 0.2129 | train_acc: 0.9087 | test_loss: 0.0788 | test_acc: 0.9737
+ 30%|███       | 9/30 [01:53<04:24, 12.60s/it]Epoch: 10 | train_loss: 0.2126 | train_acc: 0.9104 | test_loss: 0.0742 | test_acc: 0.9751
+ 33%|███▎      | 10/30 [02:06<04:13, 12.67s/it]Epoch: 11 | train_loss: 0.2049 | train_acc: 0.9117 | test_loss: 0.0806 | test_acc: 0.9761
+ 37%|███▋      | 11/30 [02:19<03:58, 12.55s/it]Epoch: 12 | train_loss: 0.2032 | train_acc: 0.9128 | test_loss: 0.0745 | test_acc: 0.9749
+ 40%|████      | 12/30 [02:32<03:51, 12.88s/it]Epoch: 13 | train_loss: 0.2003 | train_acc: 0.9138 | test_loss: 0.0753 | test_acc: 0.9747
+ 43%|████▎     | 13/30 [02:45<03:37, 12.79s/it]Epoch: 14 | train_loss: 0.1957 | train_acc: 0.9159 | test_loss: 0.0709 | test_acc: 0.9777
+ 47%|████▋     | 14/30 [02:57<03:23, 12.69s/it]Epoch: 15 | train_loss: 0.1933 | train_acc: 0.9175 | test_loss: 0.1000 | test_acc: 0.9672
+ 50%|█████     | 15/30 [03:10<03:09, 12.66s/it]Epoch: 16 | train_loss: 0.1937 | train_acc: 0.9184 | test_loss: 0.0740 | test_acc: 0.9747
+ 53%|█████▎    | 16/30 [03:22<02:56, 12.59s/it]Epoch: 17 | train_loss: 0.1911 | train_acc: 0.9171 | test_loss: 0.0664 | test_acc: 0.9778
+ 57%|█████▋    | 17/30 [03:35<02:43, 12.57s/it]Epoch: 18 | train_loss: 0.1913 | train_acc: 0.9174 | test_loss: 0.0705 | test_acc: 0.9737
+ 60%|██████    | 18/30 [03:47<02:31, 12.62s/it]Epoch: 19 | train_loss: 0.1846 | train_acc: 0.9206 | test_loss: 0.0891 | test_acc: 0.9753
+ 63%|██████▎   | 19/30 [04:03<02:26, 13.36s/it]Epoch: 20 | train_loss: 0.1835 | train_acc: 0.9205 | test_loss: 0.0791 | test_acc: 0.9767
+ 67%|██████▋   | 20/30 [04:15<02:11, 13.16s/it]Epoch: 21 | train_loss: 0.1854 | train_acc: 0.9181 | test_loss: 0.0687 | test_acc: 0.9773
+ 70%|███████   | 21/30 [04:28<01:56, 12.98s/it]Epoch: 22 | train_loss: 0.1802 | train_acc: 0.9219 | test_loss: 0.0838 | test_acc: 0.9749
+ 73%|███████▎  | 22/30 [04:41<01:43, 12.92s/it]Epoch: 23 | train_loss: 0.1831 | train_acc: 0.9211 | test_loss: 0.0701 | test_acc: 0.9794
+ 77%|███████▋  | 23/30 [04:53<01:29, 12.83s/it]Epoch: 24 | train_loss: 0.1785 | train_acc: 0.9234 | test_loss: 0.0760 | test_acc: 0.9782
+ 80%|████████  | 24/30 [05:06<01:16, 12.83s/it]Epoch: 25 | train_loss: 0.1817 | train_acc: 0.9216 | test_loss: 0.0834 | test_acc: 0.9749
+ 83%|████████▎ | 25/30 [05:19<01:04, 12.82s/it]Epoch: 26 | train_loss: 0.1783 | train_acc: 0.9213 | test_loss: 0.0763 | test_acc: 0.9763
+ 87%|████████▋ | 26/30 [05:31<00:50, 12.66s/it]Epoch: 27 | train_loss: 0.1764 | train_acc: 0.9223 | test_loss: 0.0670 | test_acc: 0.9812
+ 90%|█████████ | 27/30 [05:44<00:37, 12.59s/it]Epoch: 28 | train_loss: 0.1682 | train_acc: 0.9271 | test_loss: 0.0916 | test_acc: 0.9751
+ 93%|█████████▎| 28/30 [05:56<00:25, 12.63s/it]Epoch: 29 | train_loss: 0.1802 | train_acc: 0.9224 | test_loss: 0.0765 | test_acc: 0.9794
+ 97%|█████████▋| 29/30 [06:09<00:12, 12.70s/it]Epoch: 30 | train_loss: 0.1717 | train_acc: 0.9264 | test_loss: 0.0764 | test_acc: 0.9800
+100%|██████████| 30/30 [06:22<00:00, 12.70s/it]100%|██████████| 30/30 [06:22<00:00, 12.74s/it]
+wandb: Waiting for W&B process to finish... (success).
+wandb: 🚀 View run crimson-feather-32 at: https://wandb.ai/d22cs051/dlops-lab-ass-8-resnet-18-even-classes/runs/hd5q9z10
+wandb: Synced 5 W&B file(s), 30 media file(s), 1950 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20230417_235104-hd5q9z10/logs
+total training time: 399.760 sec.
+LOSS & Accuracy Curves
+lr: 0.0001, betas: (0.8, 0.888), eps: 1e-08, weight_decay: 0.0001
+
