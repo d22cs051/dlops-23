@@ -1,0 +1,191 @@
+
+The following have been reloaded with a version change:
+  1) python/3.7 => python/3.8
+
+[INFO] current used device: cuda
+Files already downloaded and verified
+Files already downloaded and verified
+current exp / total: 1 / 4
+Training with: lr: 0.001, betas: (0.8, 0.888), eps: 1e-08, weight_decay: 0.001
+
+### Profiling the model ###
+
+  0%|          | 0/10 [00:00<?, ?it/s]STAGE:2023-04-13 22:40:09 2100569:2100569 ActivityProfilerController.cpp:311] Completed Stage: Warm Up
+STAGE:2023-04-13 22:40:09 2100569:2100569 ActivityProfilerController.cpp:317] Completed Stage: Collection
+STAGE:2023-04-13 22:40:09 2100569:2100569 ActivityProfilerController.cpp:321] Completed Stage: Post Processing
+STAGE:2023-04-13 22:40:09 2100569:2100569 ActivityProfilerController.cpp:311] Completed Stage: Warm Up
+STAGE:2023-04-13 22:40:09 2100569:2100569 ActivityProfilerController.cpp:317] Completed Stage: Collection
+STAGE:2023-04-13 22:40:09 2100569:2100569 ActivityProfilerController.cpp:321] Completed Stage: Post Processing
+Epoch: 1 | train_loss: 0.0314 | train_acc: 0.0013 | test_loss: 2.3001 | test_acc: 0.0995
+ 10%|█         | 1/10 [00:04<00:44,  4.90s/it]Epoch: 2 | train_loss: 0.0294 | train_acc: 0.0015 | test_loss: 2.2845 | test_acc: 0.1000
+ 20%|██        | 2/10 [00:07<00:28,  3.61s/it]Epoch: 3 | train_loss: 0.0291 | train_acc: 0.0016 | test_loss: 2.2434 | test_acc: 0.1390
+ 30%|███       | 3/10 [00:10<00:22,  3.26s/it]Epoch: 4 | train_loss: 0.0283 | train_acc: 0.0019 | test_loss: 2.1200 | test_acc: 0.2111
+ 40%|████      | 4/10 [00:13<00:18,  3.11s/it]Epoch: 5 | train_loss: 0.0278 | train_acc: 0.0024 | test_loss: 2.0730 | test_acc: 0.2344
+ 50%|█████     | 5/10 [00:16<00:14,  2.97s/it]Epoch: 6 | train_loss: 0.0279 | train_acc: 0.0028 | test_loss: 2.0720 | test_acc: 0.2258
+ 60%|██████    | 6/10 [00:18<00:11,  2.93s/it]Epoch: 7 | train_loss: 0.0278 | train_acc: 0.0026 | test_loss: 2.0027 | test_acc: 0.2713
+ 70%|███████   | 7/10 [00:21<00:08,  2.88s/it]Epoch: 8 | train_loss: 0.0275 | train_acc: 0.0028 | test_loss: 1.9987 | test_acc: 0.2962
+ 80%|████████  | 8/10 [00:24<00:05,  2.83s/it]Epoch: 9 | train_loss: 0.0271 | train_acc: 0.0027 | test_loss: 1.9946 | test_acc: 0.2702
+ 90%|█████████ | 9/10 [00:27<00:02,  2.80s/it]Epoch: 10 | train_loss: 0.0266 | train_acc: 0.0032 | test_loss: 1.9774 | test_acc: 0.3098
+100%|██████████| 10/10 [00:29<00:00,  2.79s/it]100%|██████████| 10/10 [00:29<00:00,  2.99s/it]
+total profiling time: 29.909 sec.
+
+### Training the model ###
+
+  0%|          | 0/10 [00:00<?, ?it/s]Epoch: 1 | train_loss: 1.7736 | train_acc: 0.3596 | test_loss: 1.3123 | test_acc: 0.5568
+ 10%|█         | 1/10 [00:17<02:37, 17.46s/it]Epoch: 2 | train_loss: 1.4316 | train_acc: 0.4894 | test_loss: 1.0464 | test_acc: 0.6280
+ 20%|██        | 2/10 [00:34<02:19, 17.45s/it]Epoch: 3 | train_loss: 1.2794 | train_acc: 0.5480 | test_loss: 0.8902 | test_acc: 0.6851
+ 30%|███       | 3/10 [00:52<02:02, 17.47s/it]Epoch: 4 | train_loss: 1.1916 | train_acc: 0.5790 | test_loss: 0.8199 | test_acc: 0.7141
+ 40%|████      | 4/10 [01:09<01:44, 17.46s/it]Epoch: 5 | train_loss: 1.1271 | train_acc: 0.6011 | test_loss: 1.0562 | test_acc: 0.6383
+ 50%|█████     | 5/10 [01:27<01:27, 17.47s/it]Epoch: 6 | train_loss: 1.0871 | train_acc: 0.6159 | test_loss: 0.7533 | test_acc: 0.7414
+ 60%|██████    | 6/10 [01:44<01:09, 17.44s/it]Epoch: 7 | train_loss: 1.0423 | train_acc: 0.6311 | test_loss: 0.7142 | test_acc: 0.7532
+ 70%|███████   | 7/10 [02:02<00:52, 17.47s/it]Epoch: 8 | train_loss: 1.0213 | train_acc: 0.6384 | test_loss: 0.6969 | test_acc: 0.7576
+ 80%|████████  | 8/10 [02:19<00:35, 17.53s/it]Epoch: 9 | train_loss: 0.9954 | train_acc: 0.6475 | test_loss: 0.7199 | test_acc: 0.7458
+ 90%|█████████ | 9/10 [02:37<00:17, 17.43s/it]Epoch: 10 | train_loss: 0.9802 | train_acc: 0.6526 | test_loss: 0.6573 | test_acc: 0.7710
+100%|██████████| 10/10 [02:54<00:00, 17.42s/it]100%|██████████| 10/10 [02:54<00:00, 17.45s/it]
+total training time: 174.588 sec.
+LOSS & Accuracy Curves
+lr: 0.001, betas: (0.8, 0.888), eps: 1e-08, weight_decay: 0.001
+
+current exp / total: 2 / 4
+Training with: lr: 0.001, betas: (0.8, 0.888), eps: 1e-08, weight_decay: 0.001
+
+### Profiling the model ###
+
+  0%|          | 0/15 [00:00<?, ?it/s]STAGE:2023-04-13 22:43:32 2100569:2100569 ActivityProfilerController.cpp:311] Completed Stage: Warm Up
+STAGE:2023-04-13 22:43:32 2100569:2100569 ActivityProfilerController.cpp:317] Completed Stage: Collection
+STAGE:2023-04-13 22:43:32 2100569:2100569 ActivityProfilerController.cpp:321] Completed Stage: Post Processing
+STAGE:2023-04-13 22:43:32 2100569:2100569 ActivityProfilerController.cpp:311] Completed Stage: Warm Up
+STAGE:2023-04-13 22:43:32 2100569:2100569 ActivityProfilerController.cpp:317] Completed Stage: Collection
+STAGE:2023-04-13 22:43:32 2100569:2100569 ActivityProfilerController.cpp:321] Completed Stage: Post Processing
+Epoch: 1 | train_loss: 0.0340 | train_acc: 0.0011 | test_loss: 2.2989 | test_acc: 0.1004
+  7%|▋         | 1/15 [00:03<00:46,  3.33s/it]Epoch: 2 | train_loss: 0.0295 | train_acc: 0.0010 | test_loss: 2.3007 | test_acc: 0.1133
+ 13%|█▎        | 2/15 [00:06<00:38,  3.00s/it]Epoch: 3 | train_loss: 0.0294 | train_acc: 0.0012 | test_loss: 2.2961 | test_acc: 0.1754
+ 20%|██        | 3/15 [00:08<00:34,  2.88s/it]Epoch: 4 | train_loss: 0.0294 | train_acc: 0.0013 | test_loss: 2.3009 | test_acc: 0.1205
+ 27%|██▋       | 4/15 [00:11<00:31,  2.86s/it]Epoch: 5 | train_loss: 0.0294 | train_acc: 0.0016 | test_loss: 2.2947 | test_acc: 0.1170
+ 33%|███▎      | 5/15 [00:14<00:28,  2.81s/it]Epoch: 6 | train_loss: 0.0295 | train_acc: 0.0015 | test_loss: 2.2978 | test_acc: 0.1000
+ 40%|████      | 6/15 [00:17<00:25,  2.83s/it]Epoch: 7 | train_loss: 0.0290 | train_acc: 0.0017 | test_loss: 2.1557 | test_acc: 0.2073
+ 47%|████▋     | 7/15 [00:20<00:22,  2.83s/it]Epoch: 8 | train_loss: 0.0284 | train_acc: 0.0022 | test_loss: 2.0806 | test_acc: 0.2387
+ 53%|█████▎    | 8/15 [00:22<00:19,  2.83s/it]Epoch: 9 | train_loss: 0.0279 | train_acc: 0.0022 | test_loss: 2.0697 | test_acc: 0.2406
+ 60%|██████    | 9/15 [00:25<00:16,  2.81s/it]Epoch: 10 | train_loss: 0.0278 | train_acc: 0.0025 | test_loss: 2.0748 | test_acc: 0.2497
+ 67%|██████▋   | 10/15 [00:28<00:13,  2.76s/it]Epoch: 11 | train_loss: 0.0277 | train_acc: 0.0024 | test_loss: 2.0652 | test_acc: 0.2089
+ 73%|███████▎  | 11/15 [00:31<00:11,  2.76s/it]Epoch: 12 | train_loss: 0.0280 | train_acc: 0.0023 | test_loss: 2.0538 | test_acc: 0.2469
+ 80%|████████  | 12/15 [00:33<00:08,  2.77s/it]Epoch: 13 | train_loss: 0.0272 | train_acc: 0.0026 | test_loss: 2.0019 | test_acc: 0.3019
+ 87%|████████▋ | 13/15 [00:36<00:05,  2.76s/it]Epoch: 14 | train_loss: 0.0270 | train_acc: 0.0033 | test_loss: 1.9703 | test_acc: 0.2989
+ 93%|█████████▎| 14/15 [00:39<00:02,  2.73s/it]Epoch: 15 | train_loss: 0.0260 | train_acc: 0.0030 | test_loss: 1.9274 | test_acc: 0.3075
+100%|██████████| 15/15 [00:41<00:00,  2.71s/it]100%|██████████| 15/15 [00:41<00:00,  2.80s/it]
+total profiling time: 41.927 sec.
+
+### Training the model ###
+
+  0%|          | 0/15 [00:00<?, ?it/s]Epoch: 1 | train_loss: 1.7427 | train_acc: 0.3711 | test_loss: 1.2813 | test_acc: 0.5574
+  7%|▋         | 1/15 [00:17<04:05, 17.53s/it]Epoch: 2 | train_loss: 1.4170 | train_acc: 0.4946 | test_loss: 1.0680 | test_acc: 0.6190
+ 13%|█▎        | 2/15 [00:34<03:47, 17.48s/it]Epoch: 3 | train_loss: 1.2807 | train_acc: 0.5450 | test_loss: 0.8771 | test_acc: 0.6978
+ 20%|██        | 3/15 [00:52<03:29, 17.42s/it]Epoch: 4 | train_loss: 1.1862 | train_acc: 0.5781 | test_loss: 0.8492 | test_acc: 0.7034
+ 27%|██▋       | 4/15 [01:09<03:12, 17.48s/it]Epoch: 5 | train_loss: 1.1275 | train_acc: 0.6002 | test_loss: 0.7926 | test_acc: 0.7254
+ 33%|███▎      | 5/15 [01:27<02:54, 17.49s/it]Epoch: 6 | train_loss: 1.0846 | train_acc: 0.6135 | test_loss: 0.7854 | test_acc: 0.7251
+ 40%|████      | 6/15 [01:44<02:37, 17.46s/it]Epoch: 7 | train_loss: 1.0455 | train_acc: 0.6309 | test_loss: 0.8421 | test_acc: 0.7136
+ 47%|████▋     | 7/15 [02:02<02:19, 17.48s/it]Epoch: 8 | train_loss: 1.0220 | train_acc: 0.6357 | test_loss: 0.7029 | test_acc: 0.7600
+ 53%|█████▎    | 8/15 [02:20<02:02, 17.56s/it]Epoch: 9 | train_loss: 0.9924 | train_acc: 0.6495 | test_loss: 0.7091 | test_acc: 0.7540
+ 60%|██████    | 9/15 [02:37<01:45, 17.51s/it]Epoch: 10 | train_loss: 0.9708 | train_acc: 0.6552 | test_loss: 0.6354 | test_acc: 0.7800
+ 67%|██████▋   | 10/15 [02:54<01:27, 17.51s/it]Epoch: 11 | train_loss: 0.9522 | train_acc: 0.6619 | test_loss: 0.6787 | test_acc: 0.7692
+ 73%|███████▎  | 11/15 [03:12<01:09, 17.47s/it]Epoch: 12 | train_loss: 0.9393 | train_acc: 0.6684 | test_loss: 0.6421 | test_acc: 0.7753
+ 80%|████████  | 12/15 [03:29<00:52, 17.47s/it]Epoch: 13 | train_loss: 0.9327 | train_acc: 0.6705 | test_loss: 0.6766 | test_acc: 0.7710
+ 87%|████████▋ | 13/15 [03:47<00:34, 17.43s/it]Epoch: 14 | train_loss: 0.9182 | train_acc: 0.6748 | test_loss: 0.6484 | test_acc: 0.7819
+ 93%|█████████▎| 14/15 [04:04<00:17, 17.42s/it]Epoch: 15 | train_loss: 0.9034 | train_acc: 0.6815 | test_loss: 0.6646 | test_acc: 0.7714
+100%|██████████| 15/15 [04:22<00:00, 17.47s/it]100%|██████████| 15/15 [04:22<00:00, 17.47s/it]
+total training time: 262.175 sec.
+LOSS & Accuracy Curves
+lr: 0.001, betas: (0.8, 0.888), eps: 1e-08, weight_decay: 0.001
+
+current exp / total: 3 / 4
+Training with: lr: 0.0001, betas: (0.8, 0.888), eps: 1e-08, weight_decay: 0.001
+
+### Profiling the model ###
+
+  0%|          | 0/10 [00:00<?, ?it/s]STAGE:2023-04-13 22:48:36 2100569:2100569 ActivityProfilerController.cpp:311] Completed Stage: Warm Up
+STAGE:2023-04-13 22:48:36 2100569:2100569 ActivityProfilerController.cpp:317] Completed Stage: Collection
+STAGE:2023-04-13 22:48:36 2100569:2100569 ActivityProfilerController.cpp:321] Completed Stage: Post Processing
+STAGE:2023-04-13 22:48:37 2100569:2100569 ActivityProfilerController.cpp:311] Completed Stage: Warm Up
+STAGE:2023-04-13 22:48:37 2100569:2100569 ActivityProfilerController.cpp:317] Completed Stage: Collection
+STAGE:2023-04-13 22:48:37 2100569:2100569 ActivityProfilerController.cpp:321] Completed Stage: Post Processing
+Epoch: 1 | train_loss: 0.0295 | train_acc: 0.0015 | test_loss: 2.2960 | test_acc: 0.1383
+ 10%|█         | 1/10 [00:03<00:29,  3.25s/it]Epoch: 2 | train_loss: 0.0293 | train_acc: 0.0019 | test_loss: 2.2729 | test_acc: 0.1839
+ 20%|██        | 2/10 [00:05<00:23,  2.93s/it]Epoch: 3 | train_loss: 0.0289 | train_acc: 0.0022 | test_loss: 2.1809 | test_acc: 0.1412
+ 30%|███       | 3/10 [00:08<00:19,  2.85s/it]Epoch: 4 | train_loss: 0.0282 | train_acc: 0.0018 | test_loss: 2.1108 | test_acc: 0.2519
+ 40%|████      | 4/10 [00:11<00:17,  2.84s/it]Epoch: 5 | train_loss: 0.0280 | train_acc: 0.0027 | test_loss: 2.0747 | test_acc: 0.2568
+ 50%|█████     | 5/10 [00:14<00:13,  2.80s/it]Epoch: 6 | train_loss: 0.0276 | train_acc: 0.0026 | test_loss: 2.0161 | test_acc: 0.2789
+ 60%|██████    | 6/10 [00:16<00:11,  2.76s/it]Epoch: 7 | train_loss: 0.0271 | train_acc: 0.0030 | test_loss: 2.0339 | test_acc: 0.2416
+ 70%|███████   | 7/10 [00:19<00:08,  2.74s/it]Epoch: 8 | train_loss: 0.0269 | train_acc: 0.0031 | test_loss: 1.9758 | test_acc: 0.2805
+ 80%|████████  | 8/10 [00:22<00:05,  2.79s/it]Epoch: 9 | train_loss: 0.0267 | train_acc: 0.0033 | test_loss: 1.9774 | test_acc: 0.2769
+ 90%|█████████ | 9/10 [00:25<00:02,  2.81s/it]Epoch: 10 | train_loss: 0.0268 | train_acc: 0.0030 | test_loss: 1.9374 | test_acc: 0.3197
+100%|██████████| 10/10 [00:28<00:00,  2.80s/it]100%|██████████| 10/10 [00:28<00:00,  2.82s/it]
+total profiling time: 28.175 sec.
+
+### Training the model ###
+
+  0%|          | 0/10 [00:00<?, ?it/s]Epoch: 1 | train_loss: 1.7857 | train_acc: 0.3604 | test_loss: 1.3262 | test_acc: 0.5285
+ 10%|█         | 1/10 [00:17<02:37, 17.47s/it]Epoch: 2 | train_loss: 1.4902 | train_acc: 0.4722 | test_loss: 1.0832 | test_acc: 0.6239
+ 20%|██        | 2/10 [00:34<02:19, 17.45s/it]Epoch: 3 | train_loss: 1.3243 | train_acc: 0.5321 | test_loss: 0.9016 | test_acc: 0.6840
+ 30%|███       | 3/10 [00:52<02:02, 17.46s/it]Epoch: 4 | train_loss: 1.2156 | train_acc: 0.5711 | test_loss: 0.8414 | test_acc: 0.7070
+ 40%|████      | 4/10 [01:09<01:44, 17.45s/it]Epoch: 5 | train_loss: 1.1467 | train_acc: 0.5963 | test_loss: 0.7795 | test_acc: 0.7285
+ 50%|█████     | 5/10 [01:27<01:27, 17.52s/it]Epoch: 6 | train_loss: 1.0871 | train_acc: 0.6199 | test_loss: 0.7768 | test_acc: 0.7376
+ 60%|██████    | 6/10 [01:44<01:10, 17.51s/it]Epoch: 7 | train_loss: 1.0350 | train_acc: 0.6364 | test_loss: 0.7198 | test_acc: 0.7513
+ 70%|███████   | 7/10 [02:02<00:52, 17.56s/it]Epoch: 8 | train_loss: 0.9998 | train_acc: 0.6493 | test_loss: 0.6884 | test_acc: 0.7664
+ 80%|████████  | 8/10 [02:20<00:35, 17.55s/it]Epoch: 9 | train_loss: 0.9656 | train_acc: 0.6613 | test_loss: 0.6800 | test_acc: 0.7654
+ 90%|█████████ | 9/10 [02:37<00:17, 17.53s/it]Epoch: 10 | train_loss: 0.9409 | train_acc: 0.6684 | test_loss: 0.6448 | test_acc: 0.7766
+100%|██████████| 10/10 [02:54<00:00, 17.47s/it]100%|██████████| 10/10 [02:54<00:00, 17.50s/it]
+total training time: 174.988 sec.
+LOSS & Accuracy Curves
+lr: 0.0001, betas: (0.8, 0.888), eps: 1e-08, weight_decay: 0.001
+
+current exp / total: 4 / 4
+Training with: lr: 0.0001, betas: (0.8, 0.888), eps: 1e-08, weight_decay: 0.001
+
+### Profiling the model ###
+
+  0%|          | 0/15 [00:00<?, ?it/s]STAGE:2023-04-13 22:52:00 2100569:2100569 ActivityProfilerController.cpp:311] Completed Stage: Warm Up
+STAGE:2023-04-13 22:52:00 2100569:2100569 ActivityProfilerController.cpp:317] Completed Stage: Collection
+STAGE:2023-04-13 22:52:00 2100569:2100569 ActivityProfilerController.cpp:321] Completed Stage: Post Processing
+STAGE:2023-04-13 22:52:00 2100569:2100569 ActivityProfilerController.cpp:311] Completed Stage: Warm Up
+STAGE:2023-04-13 22:52:00 2100569:2100569 ActivityProfilerController.cpp:317] Completed Stage: Collection
+STAGE:2023-04-13 22:52:00 2100569:2100569 ActivityProfilerController.cpp:321] Completed Stage: Post Processing
+Epoch: 1 | train_loss: 0.0295 | train_acc: 0.0013 | test_loss: 2.2970 | test_acc: 0.1517
+  7%|▋         | 1/15 [00:03<00:44,  3.16s/it]Epoch: 2 | train_loss: 0.0293 | train_acc: 0.0014 | test_loss: 2.2832 | test_acc: 0.1021
+ 13%|█▎        | 2/15 [00:05<00:38,  2.97s/it]Epoch: 3 | train_loss: 0.0292 | train_acc: 0.0016 | test_loss: 2.2391 | test_acc: 0.2014
+ 20%|██        | 3/15 [00:08<00:34,  2.89s/it]Epoch: 4 | train_loss: 0.0288 | train_acc: 0.0017 | test_loss: 2.2438 | test_acc: 0.1502
+ 27%|██▋       | 4/15 [00:11<00:31,  2.84s/it]Epoch: 5 | train_loss: 0.0281 | train_acc: 0.0024 | test_loss: 2.1023 | test_acc: 0.2060
+ 33%|███▎      | 5/15 [00:14<00:27,  2.77s/it]Epoch: 6 | train_loss: 0.0281 | train_acc: 0.0026 | test_loss: 2.0742 | test_acc: 0.2624
+ 40%|████      | 6/15 [00:17<00:25,  2.79s/it]Epoch: 7 | train_loss: 0.0276 | train_acc: 0.0030 | test_loss: 2.0580 | test_acc: 0.2515
+ 47%|████▋     | 7/15 [00:19<00:22,  2.76s/it]Epoch: 8 | train_loss: 0.0276 | train_acc: 0.0024 | test_loss: 2.0252 | test_acc: 0.2789
+ 53%|█████▎    | 8/15 [00:22<00:19,  2.77s/it]Epoch: 9 | train_loss: 0.0273 | train_acc: 0.0027 | test_loss: 2.0768 | test_acc: 0.2499
+ 60%|██████    | 9/15 [00:25<00:16,  2.80s/it]Epoch: 10 | train_loss: 0.0271 | train_acc: 0.0026 | test_loss: 1.9840 | test_acc: 0.2795
+ 67%|██████▋   | 10/15 [00:28<00:14,  2.80s/it]Epoch: 11 | train_loss: 0.0271 | train_acc: 0.0029 | test_loss: 1.9606 | test_acc: 0.3103
+ 73%|███████▎  | 11/15 [00:30<00:11,  2.80s/it]Epoch: 12 | train_loss: 0.0262 | train_acc: 0.0032 | test_loss: 1.9392 | test_acc: 0.3051
+ 80%|████████  | 12/15 [00:33<00:08,  2.83s/it]Epoch: 13 | train_loss: 0.0266 | train_acc: 0.0027 | test_loss: 1.9387 | test_acc: 0.3006
+ 87%|████████▋ | 13/15 [00:36<00:05,  2.84s/it]Epoch: 14 | train_loss: 0.0270 | train_acc: 0.0030 | test_loss: 1.9232 | test_acc: 0.3368
+ 93%|█████████▎| 14/15 [00:39<00:02,  2.86s/it]Epoch: 15 | train_loss: 0.0256 | train_acc: 0.0037 | test_loss: 1.8771 | test_acc: 0.3124
+100%|██████████| 15/15 [00:42<00:00,  2.82s/it]100%|██████████| 15/15 [00:42<00:00,  2.82s/it]
+total profiling time: 42.361 sec.
+
+### Training the model ###
+
+  0%|          | 0/15 [00:00<?, ?it/s]Epoch: 1 | train_loss: 1.7834 | train_acc: 0.3609 | test_loss: 1.2998 | test_acc: 0.5448
+  7%|▋         | 1/15 [00:17<04:05, 17.50s/it]Epoch: 2 | train_loss: 1.4941 | train_acc: 0.4708 | test_loss: 1.1109 | test_acc: 0.6169
+ 13%|█▎        | 2/15 [00:35<03:47, 17.53s/it]Epoch: 3 | train_loss: 1.3341 | train_acc: 0.5312 | test_loss: 0.9995 | test_acc: 0.6513
+ 20%|██        | 3/15 [00:52<03:29, 17.46s/it]Epoch: 4 | train_loss: 1.2414 | train_acc: 0.5616 | test_loss: 0.8518 | test_acc: 0.7036
+ 27%|██▋       | 4/15 [01:10<03:12, 17.51s/it]Epoch: 5 | train_loss: 1.1619 | train_acc: 0.5875 | test_loss: 0.8438 | test_acc: 0.7100
+ 33%|███▎      | 5/15 [01:27<02:54, 17.47s/it]Epoch: 6 | train_loss: 1.1057 | train_acc: 0.6096 | test_loss: 0.8208 | test_acc: 0.7194
+ 40%|████      | 6/15 [01:44<02:37, 17.48s/it]Epoch: 7 | train_loss: 1.0543 | train_acc: 0.6290 | test_loss: 0.7614 | test_acc: 0.7308
+ 47%|████▋     | 7/15 [02:02<02:19, 17.48s/it]Epoch: 8 | train_loss: 1.0106 | train_acc: 0.6451 | test_loss: 0.7178 | test_acc: 0.7590
+ 53%|█████▎    | 8/15 [02:19<02:02, 17.50s/it]Epoch: 9 | train_loss: 0.9860 | train_acc: 0.6532 | test_loss: 0.7002 | test_acc: 0.7613
+ 60%|██████    | 9/15 [02:37<01:45, 17.50s/it]Epoch: 10 | train_loss: 0.9410 | train_acc: 0.6702 | test_loss: 0.6491 | test_acc: 0.7747
+ 67%|██████▋   | 10/15 [02:54<01:27, 17.51s/it]Epoch: 11 | train_loss: 0.9213 | train_acc: 0.6780 | test_loss: 0.6444 | test_acc: 0.7756
+ 73%|███████▎  | 11/15 [03:12<01:09, 17.50s/it]Epoch: 12 | train_loss: 0.8976 | train_acc: 0.6838 | test_loss: 0.6310 | test_acc: 0.7852
+ 80%|████████  | 12/15 [03:29<00:52, 17.45s/it]Epoch: 13 | train_loss: 0.8626 | train_acc: 0.6966 | test_loss: 0.6289 | test_acc: 0.7804
+ 87%|████████▋ | 13/15 [03:47<00:34, 17.41s/it]Epoch: 14 | train_loss: 0.8423 | train_acc: 0.7052 | test_loss: 0.6203 | test_acc: 0.7871
+ 93%|█████████▎| 14/15 [04:04<00:17, 17.42s/it]Epoch: 15 | train_loss: 0.8302 | train_acc: 0.7086 | test_loss: 0.5846 | test_acc: 0.7996
+100%|██████████| 15/15 [04:22<00:00, 17.46s/it]100%|██████████| 15/15 [04:22<00:00, 17.47s/it]
+total training time: 262.117 sec.
+LOSS & Accuracy Curves
+lr: 0.0001, betas: (0.8, 0.888), eps: 1e-08, weight_decay: 0.001
+
