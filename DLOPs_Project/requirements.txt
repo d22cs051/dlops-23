@@ -1,0 +1,11 @@
+transformers 
+bitsandbytes==0.35.0 
+xformers
+accelerate
+controlnet_aux==0.0.3
+diffusers
+imageio
+triton
+codeformer-pip
+torch
+torchvision
